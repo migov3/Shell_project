@@ -7,7 +7,6 @@ Grados I. Informatica, Computadores & Software
 Dept. Arquitectura de Computadores - UMA
 Nombre y apellidos: Miguel Gómez
 
-Some code adapted from "Fundamentos de Sistemas Operativos", Silberschatz et al.
 --------------------------------------------------------*/
 
 #ifndef _JOB_CONTROL_H
